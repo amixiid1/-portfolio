@@ -5,7 +5,7 @@ export default function About() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
           <div className="order-2 md:order-1">
             <img 
-              src="https://picsum.photos/seed/programmer/600/600" 
+              src="./por.jpeg" 
               alt="Programmer working" 
               className="rounded-2xl grayscale hover:grayscale-0 transition-all duration-500 border-4 border-green-600"
               referrerPolicy="no-referrer"
